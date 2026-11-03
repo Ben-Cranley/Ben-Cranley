@@ -8,7 +8,7 @@ Final-year BSc Computing in Digital Forensics and Cyber Security student at TU D
 
 | Project | What it is | Built with |
 |---|---|---|
-| [Crusader Run](https://github.com/Ben-Cranley/crusader-run) | Endless driving game you can [play in the browser](https://ben-cranley.github.io/crusader-run/play/) | Unity, C# |
+| [Crusader Run](https://github.com/Ben-Cranley/crusader-run) | Endless driving game you can [play in the browser](https://play.unity.com/en/games/59bd90bf-0012-4005-89e5-e1cd7be5ae29/crusader-run-beta) | Unity, C# |
 | [University Database](https://github.com/Ben-Cranley/university-database) | Database design from ER diagrams to a tested MySQL schema and 20 queries | MySQL |
 | [Java Café](https://github.com/Ben-Cranley/java-cafe) | Command-line point-of-sale system with stock tracking and sales logging | Java |
 
