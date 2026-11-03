@@ -21,7 +21,6 @@ Final-year BSc Computing in Digital Forensics and Cyber Security student at TU D
 
 ### Learning
 
-- CompTIA Network+ (in progress), then Security+
 - Cisco Networking Academy: CCNA, CyberOps Associate
 - Splunk: Intro to Splunk, Understanding Threats and Attacks, Visualizations
 - Cybrary: Threat Modeling
