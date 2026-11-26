@@ -8,7 +8,7 @@ Final-year BSc Computing in Digital Forensics and Cyber Security student at TU D
 
 | Project | What it is | Built with |
 |---|---|---|
-| [T-Pot Honeynet Analysis](https://github.com/Ben-Cranley/tpot-honeynet-analysis) | 5 million real attacks captured on a 4-machine T-Pot honeynet. Campaigns mapped to MITRE ATT&CK, with detection rules that beat an IP blocklist | T-Pot, DuckDB, Splunk, Azure, Google Cloud |
+| [T-Pot Honeynet Analysis](https://github.com/Ben-Cranley/tpot-honeypot-network-analysis) | 5 million real attacks captured on a 4-machine T-Pot honeynet. Campaigns mapped to MITRE ATT&CK, with detection rules that beat an IP blocklist | T-Pot, DuckDB, Splunk, Azure, Google Cloud |
 | [Second-Hand Phone Forensics](https://github.com/Ben-Cranley/second-hand-phone-forensics) | Forensic study of three used Android phones from Irish shops, following NIST SP 800-101 | Paraben E3, FTK Imager, Autopsy, FTK |
 | [Penetration Testing Labs](https://github.com/Ben-Cranley/penetration-testing-labs) | Full test lifecycle: scoping, Nessus/OpenVAS scanning, Linux, Windows and wireless exploitation, and reporting with fixes | Kali, Nmap, Metasploit, Hydra, Aircrack-ng, Burp Suite |
 | [Web App Security Review](https://github.com/Ben-Cranley/web-app-security-review) | Found and fixed 10 OWASP Top 10 vulnerabilities in a Flask app | Python, Flask, Burp Suite, Wireshark |
